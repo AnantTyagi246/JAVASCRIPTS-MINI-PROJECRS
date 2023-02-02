@@ -1,0 +1,79 @@
+#increment-btn {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:600px;
+    margin-right:10px;
+    background-color: rgb(20, 3, 77);
+    font-weight:bold;
+    color:white;
+    font-size: 50px;
+    border-radius:10px;
+    
+}
+
+
+#decrement-btn {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:600px;
+    margin-right:10px;
+    background-color: rgb(249, 8, 56);
+    font-weight:bold;
+    color:white;
+    font-size: 50px;
+    border-radius:10px;
+    
+}
+
+
+
+#save-btn{
+    color:white;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:679px;
+    margin-right:10px;
+    background-color: rgb(4, 54, 15);
+    font-weight:bold;
+    font-size: 50px;
+    border-radius:10px;
+
+}
+   
+button {
+   color: white;
+    border-width:2px;
+    margin-top: 10px; 
+    margin-bottom :10px ;
+    margin-left:600px;
+    margin-right:10px ;
+
+
+  
+}
+#counter{
+    
+    margin-bottom :10px ;
+    margin-left:550px;
+    margin-right:10px ;
+    font-size: 50px;
+   
+
+
+}
+#hell{
+    margin-top: 10px; 
+    margin-bottom :10px ;
+    margin-left:720px;
+    margin-right:10px ; 
+    font-size: 50px;
+
+}
+
+#entry{
+    margin-top: 6px; 
+    margin-bottom :10px ;
+    margin-left:300px;
+    margin-right:10px ; 
+    font-size: 50px;
+}
